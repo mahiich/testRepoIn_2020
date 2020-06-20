@@ -1,7 +1,8 @@
 body {
-    background-color: brown;
+    background-color: blue;
 }
 
 h1 {
     color: aqua;
+    font-size: large;
 }
