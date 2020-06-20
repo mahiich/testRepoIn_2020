@@ -1,0 +1,1 @@
+alert('Hello its my first commited js file');
